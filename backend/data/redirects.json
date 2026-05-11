@@ -1,0 +1,12 @@
+{
+  "bit.ly": "https://example.com/malicious",
+  "tinyurl.com": "https://example.com/phishing",
+  "goo.gl": "https://example.com/suspicious",
+  "t.co": "https://example.com/legitimate",
+  "short.link": "https://example.com/malicious",
+  "is.gd": "https://example.com/phishing",
+  "v.gd": "https://example.com/suspicious",
+  "ow.ly": "https://example.com/legitimate",
+  "buff.ly": "https://example.com/malicious",
+  "shorturl.at": "https://example.com/phishing"
+}

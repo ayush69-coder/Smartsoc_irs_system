@@ -1,0 +1,8 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="40" rx="8" fill="#1F2937"/>
+  <path d="M8 16h24v3H8v-3zm0 6h24v3H8v-3zm0 6h18v3H8v-3z" fill="#3B82F6"/>
+  <circle cx="90" cy="12" r="6" fill="#EF4444"/>
+  <path d="M87 9h6v6h-6V9z" fill="white"/>
+  <text x="50" y="25" fill="white" font-family="Inter, sans-serif" font-size="14" font-weight="600">PhishGuard</text>
+  <text x="50" y="35" fill="#3B82F6" font-family="Inter, sans-serif" font-size="10" font-weight="500">Pro</text>
+</svg>

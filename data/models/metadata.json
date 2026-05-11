@@ -1,0 +1,121 @@
+{
+  "models": [
+    {
+      "name": "text_model_v1",
+      "version": "1.2.3",
+      "type": "text_classifier",
+      "created_at": "2024-01-15T10:00:00Z",
+      "last_trained": "2024-01-15T10:00:00Z",
+      "metrics": {
+        "accuracy": 0.94,
+        "precision": 0.92,
+        "recall": 0.89,
+        "f1_score": 0.90,
+        "auc_roc": 0.96
+      },
+      "features": [
+        "keyword_matches",
+        "text_entropy",
+        "urgency_count",
+        "length",
+        "suspicious_patterns"
+      ],
+      "algorithm": "RandomForest",
+      "training_samples": 50000,
+      "validation_samples": 10000
+    },
+    {
+      "name": "url_model_v2",
+      "version": "2.1.0",
+      "type": "url_classifier",
+      "created_at": "2024-01-20T14:30:00Z",
+      "last_trained": "2024-01-20T14:30:00Z",
+      "metrics": {
+        "accuracy": 0.91,
+        "precision": 0.88,
+        "recall": 0.93,
+        "f1_score": 0.90,
+        "auc_roc": 0.94
+      },
+      "features": [
+        "length",
+        "token_entropy",
+        "has_punycode",
+        "has_credentials",
+        "num_subdomains",
+        "path_entropy",
+        "is_shortener"
+      ],
+      "algorithm": "XGBoost",
+      "training_samples": 75000,
+      "validation_samples": 15000
+    },
+    {
+      "name": "visual_model_v1",
+      "version": "1.0.5",
+      "type": "visual_classifier",
+      "created_at": "2024-01-25T09:15:00Z",
+      "last_trained": "2024-01-25T09:15:00Z",
+      "metrics": {
+        "accuracy": 0.87,
+        "precision": 0.85,
+        "recall": 0.88,
+        "f1_score": 0.86,
+        "auc_roc": 0.91
+      },
+      "features": [
+        "logo_mismatch",
+        "layout_anomalies",
+        "color_scheme_similarity",
+        "font_consistency",
+        "button_placement"
+      ],
+      "algorithm": "CNN",
+      "training_samples": 25000,
+      "validation_samples": 5000
+    },
+    {
+      "name": "ensemble_model_v1",
+      "version": "1.0.0",
+      "type": "ensemble",
+      "created_at": "2024-01-30T16:45:00Z",
+      "last_trained": "2024-01-30T16:45:00Z",
+      "metrics": {
+        "accuracy": 0.96,
+        "precision": 0.94,
+        "recall": 0.95,
+        "f1_score": 0.94,
+        "auc_roc": 0.98
+      },
+      "features": [
+        "text_model_output",
+        "url_model_output",
+        "visual_model_output",
+        "domain_reputation",
+        "temporal_features"
+      ],
+      "algorithm": "WeightedVoting",
+      "training_samples": 100000,
+      "validation_samples": 20000,
+      "component_models": [
+        "text_model_v1",
+        "url_model_v2",
+        "visual_model_v1"
+      ]
+    }
+  ],
+  "ensemble": {
+    "active_model": "ensemble_model_v1",
+    "fallback_model": "text_model_v1",
+    "confidence_threshold": 0.8,
+    "retrain_schedule": "weekly",
+    "last_retrain": "2024-01-30T16:45:00Z"
+  },
+  "performance": {
+    "avg_inference_time_ms": 45,
+    "p95_inference_time_ms": 120,
+    "p99_inference_time_ms": 250,
+    "throughput_per_second": 1000,
+    "memory_usage_mb": 512
+  }
+}

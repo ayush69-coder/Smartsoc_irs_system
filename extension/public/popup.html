@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PhishGuard Pro</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="popup-container">
+        <div class="header">
+            <div class="logo">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                <span>PhishGuard Pro</span>
+            </div>
+            <div class="status-indicator" id="statusIndicator">
+                <div class="status-dot active"></div>
+                <span>Active</span>
+            </div>
+        </div>
+        
+        <div class="content">
+            <div class="current-site">
+                <h3>Current Site</h3>
+                <p id="currentUrl">Loading...</p>
+                <div class="verdict" id="verdict">
+                    <span class="verdict-label">Checking...</span>
+                </div>
+            </div>
+            
+            <div class="actions">
+                <button id="checkButton" class="btn btn-primary">
+                    Check This Page
+                </button>
+                <button id="settingsButton" class="btn btn-secondary">
+                    Settings
+                </button>
+            </div>
+            
+            <div class="demo-mode">
+                <label class="checkbox-label">
+                    <input type="checkbox" id="demoMode">
+                    <span class="checkmark"></span>
+                    Demo Mode
+                </label>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>Version 1.0.0</p>
+        </div>
+    </div>
+    
+    <script src="popup.js"></script>
+</body>
+</html>

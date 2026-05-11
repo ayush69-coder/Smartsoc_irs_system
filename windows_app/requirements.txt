@@ -1,0 +1,3 @@
+# PhishGuard Pro Windows App Requirements
+requests>=2.31.0
+tkinter  # Usually included with Python

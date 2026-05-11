@@ -1,0 +1,10 @@
+# Icon Placeholder
+
+This directory is for application icons and resources.
+
+To add an icon:
+1. Create a 256x256 pixel .ico file
+2. Name it "icon.ico"
+3. Place it in this directory
+
+The build script will automatically use the icon when creating the executable.

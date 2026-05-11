@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "demo-133",
+    "timestamp": "2025-09-15T12:56:22.307370Z",
+    "source": "sms",
+    "sender": "security@google.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://google.com/security/update",
+    "final_url": "https://google.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-198",
+    "timestamp": "2025-10-04T12:56:22.308052Z",
+    "source": "email",
+    "sender": "notifications@legitimate-company.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://legitimate-company.com/maintenance",
+    "final_url": "https://legitimate-company.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-182",
+    "timestamp": "2025-09-26T12:56:22.307884Z",
+    "source": "sms",
+    "sender": "noreply@amazon.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://amazon.com/account/summary",
+    "final_url": "https://amazon.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-028",
+    "timestamp": "2025-10-02T12:56:22.305956Z",
+    "source": "sms",
+    "sender": "alerts@fake-bank-verification.com",
+    "subject": "Account Security Alert - Action Required",
+    "body": "We detected unusual login attempts on your account. Please verify your identity to secure your account.",
+    "url": "https://bit.ly/bank-security-028",
+    "final_url": "https://fake-bank-security.net/verify?token=028",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-174",
+    "timestamp": "2025-09-11T12:56:22.307803Z",
+    "source": "email",
+    "sender": "notifications@amazon.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://amazon.com/maintenance",
+    "final_url": "https://amazon.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-102",
+    "timestamp": "2025-09-15T12:56:22.307018Z",
+    "source": "web",
+    "sender": "security@microsoft.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://microsoft.com/security/update",
+    "final_url": "https://microsoft.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-022",
+    "timestamp": "2025-09-16T12:56:22.305874Z",
+    "source": "sms",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-022",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=022",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-038",
+    "timestamp": "2025-09-10T12:56:22.306090Z",
+    "source": "sms",
+    "sender": "support@cloud-provider.net",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-038",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=038",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-089",
+    "timestamp": "2025-09-29T12:56:22.306875Z",
+    "source": "sms",
+    "sender": "noreply@apple.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://apple.com/account/summary",
+    "final_url": "https://apple.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-080",
+    "timestamp": "2025-10-03T12:56:22.306667Z",
+    "source": "web",
+    "sender": "security@fake-bank-verification.com",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-080",
+    "final_url": "https://fake-bank-verification.com/verify?ref=080",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-044",
+    "timestamp": "2025-09-09T12:56:22.306199Z",
+    "source": "email",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-044",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=044",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-034",
+    "timestamp": "2025-10-03T12:56:22.306032Z",
+    "source": "sms",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-034",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=034",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-090",
+    "timestamp": "2025-09-16T12:56:22.306888Z",
+    "source": "web",
+    "sender": "notifications@legitimate-delivery.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://legitimate-delivery.com/maintenance",
+    "final_url": "https://legitimate-delivery.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-166",
+    "timestamp": "2025-09-28T12:56:22.307718Z",
+    "source": "sms",
+    "sender": "noreply@apple.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://apple.com/account/summary",
+    "final_url": "https://apple.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-154",
+    "timestamp": "2025-09-10T12:56:22.307598Z",
+    "source": "email",
+    "sender": "notifications@legitimate-delivery.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://legitimate-delivery.com/maintenance",
+    "final_url": "https://legitimate-delivery.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-031",
+    "timestamp": "2025-09-05T12:56:22.305996Z",
+    "source": "web",
+    "sender": "delivery@package-service.com",
+    "subject": "Package Delivery Failed",
+    "body": "Your package delivery failed. Click here to reschedule: https://tinyurl.com/reschedule-031",
+    "url": "https://tinyurl.com/reschedule-031",
+    "final_url": "https://package-delivery-scam.net/reschedule?tracking=031",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-150",
+    "timestamp": "2025-09-29T12:56:22.307551Z",
+    "source": "email",
+    "sender": "notifications@amazon.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://amazon.com/maintenance",
+    "final_url": "https://amazon.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-118",
+    "timestamp": "2025-10-01T12:56:22.307197Z",
+    "source": "web",
+    "sender": "notifications@amazon.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://amazon.com/maintenance",
+    "final_url": "https://amazon.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-103",
+    "timestamp": "2025-09-11T12:56:22.307028Z",
+    "source": "sms",
+    "sender": "security@google.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://google.com/security/update",
+    "final_url": "https://google.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-017",
+    "timestamp": "2025-09-07T12:56:22.305806Z",
+    "source": "web",
+    "sender": "billing@invoice-company7.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-017 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-017",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=017",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-048",
+    "timestamp": "2025-09-26T12:56:22.306246Z",
+    "source": "email",
+    "sender": "delivery@package-service.com",
+    "subject": "Package Delivery Failed",
+    "body": "Your package delivery failed. Click here to reschedule: https://tinyurl.com/reschedule-048",
+    "url": "https://tinyurl.com/reschedule-048",
+    "final_url": "https://package-delivery-scam.net/reschedule?tracking=048",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-148",
+    "timestamp": "2025-10-05T12:56:22.307526Z",
+    "source": "sms",
+    "sender": "notifications@google.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://google.com/maintenance",
+    "final_url": "https://google.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-013",
+    "timestamp": "2025-09-16T12:56:22.305755Z",
+    "source": "web",
+    "sender": "billing@invoice-company2.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-013 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-013",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=013",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-100",
+    "timestamp": "2025-09-29T12:56:22.306994Z",
+    "source": "web",
+    "sender": "notifications@legitimate-company.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://legitimate-company.com/maintenance",
+    "final_url": "https://legitimate-company.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-191",
+    "timestamp": "2025-10-04T12:56:22.307986Z",
+    "source": "email",
+    "sender": "noreply@microsoft.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://microsoft.com/account/summary",
+    "final_url": "https://microsoft.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-040",
+    "timestamp": "2025-09-14T12:56:22.306132Z",
+    "source": "web",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-040",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=040",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-092",
+    "timestamp": "2025-09-19T12:56:22.306911Z",
+    "source": "sms",
+    "sender": "security@legitimate-company.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://legitimate-company.com/security/update",
+    "final_url": "https://legitimate-company.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-101",
+    "timestamp": "2025-09-20T12:56:22.307008Z",
+    "source": "sms",
+    "sender": "noreply@legitimate-company.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://legitimate-company.com/account/summary",
+    "final_url": "https://legitimate-company.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-099",
+    "timestamp": "2025-09-21T12:56:22.306983Z",
+    "source": "sms",
+    "sender": "security@legitimate-delivery.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://legitimate-delivery.com/security/update",
+    "final_url": "https://legitimate-delivery.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-190",
+    "timestamp": "2025-09-13T12:56:22.307977Z",
+    "source": "web",
+    "sender": "security@apple.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://apple.com/security/update",
+    "final_url": "https://apple.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-188",
+    "timestamp": "2025-10-02T12:56:22.307949Z",
+    "source": "email",
+    "sender": "noreply@cloud-provider.net",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://cloud-provider.net/account/summary",
+    "final_url": "https://cloud-provider.net/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-135",
+    "timestamp": "2025-09-25T12:56:22.307390Z",
+    "source": "email",
+    "sender": "noreply@apple.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://apple.com/account/summary",
+    "final_url": "https://apple.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-138",
+    "timestamp": "2025-09-12T12:56:22.307421Z",
+    "source": "web",
+    "sender": "security@amazon.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://amazon.com/security/update",
+    "final_url": "https://amazon.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-128",
+    "timestamp": "2025-10-05T12:56:22.307313Z",
+    "source": "sms",
+    "sender": "noreply@amazon.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://amazon.com/account/summary",
+    "final_url": "https://amazon.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-181",
+    "timestamp": "2025-09-24T12:56:22.307875Z",
+    "source": "web",
+    "sender": "noreply@cloud-provider.net",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://cloud-provider.net/account/summary",
+    "final_url": "https://cloud-provider.net/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-010",
+    "timestamp": "2025-10-04T12:56:22.305711Z",
+    "source": "web",
+    "sender": "delivery@package-service.com",
+    "subject": "Package Delivery Failed",
+    "body": "Your package delivery failed. Click here to reschedule: https://tinyurl.com/reschedule-010",
+    "url": "https://tinyurl.com/reschedule-010",
+    "final_url": "https://package-delivery-scam.net/reschedule?tracking=010",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-050",
+    "timestamp": "2025-09-05T12:56:22.306274Z",
+    "source": "web",
+    "sender": "delivery@package-service.com",
+    "subject": "Package Delivery Failed",
+    "body": "Your package delivery failed. Click here to reschedule: https://tinyurl.com/reschedule-050",
+    "url": "https://tinyurl.com/reschedule-050",
+    "final_url": "https://package-delivery-scam.net/reschedule?tracking=050",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-125",
+    "timestamp": "2025-09-18T12:56:22.307283Z",
+    "source": "web",
+    "sender": "noreply@legitimate-delivery.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://legitimate-delivery.com/account/summary",
+    "final_url": "https://legitimate-delivery.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-072",
+    "timestamp": "2025-09-23T12:56:22.306561Z",
+    "source": "email",
+    "sender": "support@cloud-provider.net",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-072",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=072",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-119",
+    "timestamp": "2025-09-22T12:56:22.307225Z",
+    "source": "sms",
+    "sender": "security@microsoft.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://microsoft.com/security/update",
+    "final_url": "https://microsoft.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-112",
+    "timestamp": "2025-09-09T12:56:22.307122Z",
+    "source": "web",
+    "sender": "security@legitimate-delivery.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://legitimate-delivery.com/security/update",
+    "final_url": "https://legitimate-delivery.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-027",
+    "timestamp": "2025-09-05T12:56:22.305938Z",
+    "source": "web",
+    "sender": "support@cloud-provider.net",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-027",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=027",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-179",
+    "timestamp": "2025-09-20T12:56:22.307856Z",
+    "source": "web",
+    "sender": "noreply@cloud-provider.net",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://cloud-provider.net/account/summary",
+    "final_url": "https://cloud-provider.net/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-160",
+    "timestamp": "2025-09-22T12:56:22.307658Z",
+    "source": "email",
+    "sender": "security@legitimate-company.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://legitimate-company.com/security/update",
+    "final_url": "https://legitimate-company.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-081",
+    "timestamp": "2025-09-25T12:56:22.306739Z",
+    "source": "web",
+    "sender": "notifications@apple.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://apple.com/maintenance",
+    "final_url": "https://apple.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-171",
+    "timestamp": "2025-09-07T12:56:22.307775Z",
+    "source": "sms",
+    "sender": "notifications@cloud-provider.net",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://cloud-provider.net/maintenance",
+    "final_url": "https://cloud-provider.net/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-131",
+    "timestamp": "2025-09-18T12:56:22.307348Z",
+    "source": "email",
+    "sender": "notifications@microsoft.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://microsoft.com/maintenance",
+    "final_url": "https://microsoft.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-046",
+    "timestamp": "2025-09-23T12:56:22.306222Z",
+    "source": "email",
+    "sender": "support@cloud-provider.net",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-046",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=046",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-145",
+    "timestamp": "2025-09-30T12:56:22.307490Z",
+    "source": "web",
+    "sender": "noreply@legitimate-delivery.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://legitimate-delivery.com/account/summary",
+    "final_url": "https://legitimate-delivery.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-149",
+    "timestamp": "2025-09-06T12:56:22.307540Z",
+    "source": "sms",
+    "sender": "notifications@cloud-provider.net",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://cloud-provider.net/maintenance",
+    "final_url": "https://cloud-provider.net/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-143",
+    "timestamp": "2025-10-02T12:56:22.307472Z",
+    "source": "web",
+    "sender": "notifications@amazon.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://amazon.com/maintenance",
+    "final_url": "https://amazon.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-002",
+    "timestamp": "2025-09-22T12:56:22.305577Z",
+    "source": "email",
+    "sender": "support@cloud-provider.net",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-002",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=002",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-008",
+    "timestamp": "2025-09-18T12:56:22.305680Z",
+    "source": "email",
+    "sender": "delivery@package-service.com",
+    "subject": "Package Delivery Failed",
+    "body": "Your package delivery failed. Click here to reschedule: https://tinyurl.com/reschedule-008",
+    "url": "https://tinyurl.com/reschedule-008",
+    "final_url": "https://package-delivery-scam.net/reschedule?tracking=008",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-155",
+    "timestamp": "2025-09-22T12:56:22.307608Z",
+    "source": "web",
+    "sender": "notifications@apple.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://apple.com/maintenance",
+    "final_url": "https://apple.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-096",
+    "timestamp": "2025-09-14T12:56:22.306952Z",
+    "source": "sms",
+    "sender": "security@legitimate-delivery.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://legitimate-delivery.com/security/update",
+    "final_url": "https://legitimate-delivery.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-029",
+    "timestamp": "2025-09-07T12:56:22.305971Z",
+    "source": "web",
+    "sender": "billing@invoice-company4.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-029 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-029",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=029",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-186",
+    "timestamp": "2025-09-20T12:56:22.307928Z",
+    "source": "sms",
+    "sender": "notifications@microsoft.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://microsoft.com/maintenance",
+    "final_url": "https://microsoft.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-163",
+    "timestamp": "2025-09-21T12:56:22.307689Z",
+    "source": "sms",
+    "sender": "noreply@legitimate-delivery.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://legitimate-delivery.com/account/summary",
+    "final_url": "https://legitimate-delivery.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-137",
+    "timestamp": "2025-09-27T12:56:22.307409Z",
+    "source": "email",
+    "sender": "noreply@apple.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://apple.com/account/summary",
+    "final_url": "https://apple.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-018",
+    "timestamp": "2025-09-28T12:56:22.305819Z",
+    "source": "web",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-018",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=018",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-091",
+    "timestamp": "2025-09-21T12:56:22.306901Z",
+    "source": "sms",
+    "sender": "noreply@apple.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://apple.com/account/summary",
+    "final_url": "https://apple.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-194",
+    "timestamp": "2025-09-20T12:56:22.308015Z",
+    "source": "sms",
+    "sender": "noreply@cloud-provider.net",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://cloud-provider.net/account/summary",
+    "final_url": "https://cloud-provider.net/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-049",
+    "timestamp": "2025-10-04T12:56:22.306262Z",
+    "source": "email",
+    "sender": "security@fake-bank-security.net",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-049",
+    "final_url": "https://fake-bank-verification.com/verify?ref=049",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-168",
+    "timestamp": "2025-09-20T12:56:22.307738Z",
+    "source": "sms",
+    "sender": "security@apple.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://apple.com/security/update",
+    "final_url": "https://apple.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-167",
+    "timestamp": "2025-09-14T12:56:22.307728Z",
+    "source": "sms",
+    "sender": "notifications@cloud-provider.net",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://cloud-provider.net/maintenance",
+    "final_url": "https://cloud-provider.net/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-047",
+    "timestamp": "2025-09-22T12:56:22.306234Z",
+    "source": "web",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-047",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=047",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-199",
+    "timestamp": "2025-09-05T12:56:22.308066Z",
+    "source": "sms",
+    "sender": "notifications@microsoft.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://microsoft.com/maintenance",
+    "final_url": "https://microsoft.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-025",
+    "timestamp": "2025-09-19T12:56:22.305914Z",
+    "source": "email",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-025",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=025",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-007",
+    "timestamp": "2025-09-24T12:56:22.305665Z",
+    "source": "sms",
+    "sender": "security@fake-bank-verification.com",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-007",
+    "final_url": "https://fake-bank-verification.com/verify?ref=007",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-088",
+    "timestamp": "2025-09-09T12:56:22.306835Z",
+    "source": "email",
+    "sender": "notifications@amazon.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://amazon.com/maintenance",
+    "final_url": "https://amazon.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-183",
+    "timestamp": "2025-09-12T12:56:22.307893Z",
+    "source": "email",
+    "sender": "security@microsoft.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://microsoft.com/security/update",
+    "final_url": "https://microsoft.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-136",
+    "timestamp": "2025-09-25T12:56:22.307400Z",
+    "source": "sms",
+    "sender": "noreply@amazon.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://amazon.com/account/summary",
+    "final_url": "https://amazon.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-169",
+    "timestamp": "2025-09-29T12:56:22.307753Z",
+    "source": "sms",
+    "sender": "noreply@microsoft.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://microsoft.com/account/summary",
+    "final_url": "https://microsoft.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-066",
+    "timestamp": "2025-09-05T12:56:22.306485Z",
+    "source": "web",
+    "sender": "delivery@package-service.com",
+    "subject": "Package Delivery Failed",
+    "body": "Your package delivery failed. Click here to reschedule: https://tinyurl.com/reschedule-066",
+    "url": "https://tinyurl.com/reschedule-066",
+    "final_url": "https://package-delivery-scam.net/reschedule?tracking=066",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-115",
+    "timestamp": "2025-09-28T12:56:22.307150Z",
+    "source": "sms",
+    "sender": "noreply@legitimate-company.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://legitimate-company.com/account/summary",
+    "final_url": "https://legitimate-company.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-015",
+    "timestamp": "2025-09-28T12:56:22.305780Z",
+    "source": "email",
+    "sender": "delivery@package-service.com",
+    "subject": "Package Delivery Failed",
+    "body": "Your package delivery failed. Click here to reschedule: https://tinyurl.com/reschedule-015",
+    "url": "https://tinyurl.com/reschedule-015",
+    "final_url": "https://package-delivery-scam.net/reschedule?tracking=015",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-093",
+    "timestamp": "2025-09-30T12:56:22.306922Z",
+    "source": "web",
+    "sender": "notifications@legitimate-delivery.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://legitimate-delivery.com/maintenance",
+    "final_url": "https://legitimate-delivery.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-033",
+    "timestamp": "2025-09-21T12:56:22.306020Z",
+    "source": "web",
+    "sender": "support@fake-cloud-upgrade.com",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-033",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=033",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-177",
+    "timestamp": "2025-09-28T12:56:22.307835Z",
+    "source": "sms",
+    "sender": "noreply@google.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://google.com/account/summary",
+    "final_url": "https://google.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-165",
+    "timestamp": "2025-09-09T12:56:22.307709Z",
+    "source": "email",
+    "sender": "security@apple.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://apple.com/security/update",
+    "final_url": "https://apple.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-059",
+    "timestamp": "2025-09-09T12:56:22.306390Z",
+    "source": "web",
+    "sender": "billing@invoice-company8.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-059 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-059",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=059",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-005",
+    "timestamp": "2025-09-13T12:56:22.305636Z",
+    "source": "sms",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-005",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=005",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-071",
+    "timestamp": "2025-09-10T12:56:22.306550Z",
+    "source": "sms",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-071",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=071",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-052",
+    "timestamp": "2025-09-28T12:56:22.306298Z",
+    "source": "web",
+    "sender": "support@cloud-provider.net",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-052",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=052",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-085",
+    "timestamp": "2025-09-29T12:56:22.306803Z",
+    "source": "sms",
+    "sender": "security@cloud-provider.net",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://cloud-provider.net/security/update",
+    "final_url": "https://cloud-provider.net/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-147",
+    "timestamp": "2025-09-05T12:56:22.307515Z",
+    "source": "sms",
+    "sender": "security@legitimate-delivery.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://legitimate-delivery.com/security/update",
+    "final_url": "https://legitimate-delivery.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-064",
+    "timestamp": "2025-09-25T12:56:22.306461Z",
+    "source": "email",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-064",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=064",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-095",
+    "timestamp": "2025-09-25T12:56:22.306942Z",
+    "source": "email",
+    "sender": "notifications@legitimate-company.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://legitimate-company.com/maintenance",
+    "final_url": "https://legitimate-company.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-094",
+    "timestamp": "2025-09-19T12:56:22.306933Z",
+    "source": "web",
+    "sender": "noreply@google.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://google.com/account/summary",
+    "final_url": "https://google.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-132",
+    "timestamp": "2025-09-17T12:56:22.307358Z",
+    "source": "web",
+    "sender": "notifications@amazon.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://amazon.com/maintenance",
+    "final_url": "https://amazon.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-014",
+    "timestamp": "2025-09-23T12:56:22.305768Z",
+    "source": "sms",
+    "sender": "support@cloud-provider.net",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-014",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=014",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-086",
+    "timestamp": "2025-09-14T12:56:22.306814Z",
+    "source": "web",
+    "sender": "noreply@legitimate-company.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://legitimate-company.com/account/summary",
+    "final_url": "https://legitimate-company.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-042",
+    "timestamp": "2025-09-21T12:56:22.306158Z",
+    "source": "email",
+    "sender": "support@cloud-provider.net",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-042",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=042",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-144",
+    "timestamp": "2025-09-13T12:56:22.307481Z",
+    "source": "sms",
+    "sender": "noreply@microsoft.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://microsoft.com/account/summary",
+    "final_url": "https://microsoft.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-053",
+    "timestamp": "2025-09-14T12:56:22.306309Z",
+    "source": "web",
+    "sender": "delivery@package-service.com",
+    "subject": "Package Delivery Failed",
+    "body": "Your package delivery failed. Click here to reschedule: https://tinyurl.com/reschedule-053",
+    "url": "https://tinyurl.com/reschedule-053",
+    "final_url": "https://package-delivery-scam.net/reschedule?tracking=053",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-173",
+    "timestamp": "2025-09-12T12:56:22.307794Z",
+    "source": "sms",
+    "sender": "security@google.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://google.com/security/update",
+    "final_url": "https://google.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-122",
+    "timestamp": "2025-09-05T12:56:22.307255Z",
+    "source": "web",
+    "sender": "notifications@amazon.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://amazon.com/maintenance",
+    "final_url": "https://amazon.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-126",
+    "timestamp": "2025-09-10T12:56:22.307294Z",
+    "source": "web",
+    "sender": "notifications@legitimate-company.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://legitimate-company.com/maintenance",
+    "final_url": "https://legitimate-company.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-063",
+    "timestamp": "2025-10-03T12:56:22.306449Z",
+    "source": "web",
+    "sender": "billing@invoice-company1.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-063 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-063",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=063",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-082",
+    "timestamp": "2025-09-12T12:56:22.306761Z",
+    "source": "sms",
+    "sender": "security@legitimate-delivery.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://legitimate-delivery.com/security/update",
+    "final_url": "https://legitimate-delivery.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-056",
+    "timestamp": "2025-10-05T12:56:22.306346Z",
+    "source": "sms",
+    "sender": "billing@invoice-company2.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-056 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-056",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=056",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-164",
+    "timestamp": "2025-09-17T12:56:22.307699Z",
+    "source": "sms",
+    "sender": "notifications@legitimate-delivery.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://legitimate-delivery.com/maintenance",
+    "final_url": "https://legitimate-delivery.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-024",
+    "timestamp": "2025-09-22T12:56:22.305902Z",
+    "source": "email",
+    "sender": "billing@invoice-company5.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-024 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-024",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=024",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-036",
+    "timestamp": "2025-09-08T12:56:22.306066Z",
+    "source": "sms",
+    "sender": "security@fake-bank.com",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-036",
+    "final_url": "https://fake-bank-verification.com/verify?ref=036",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-057",
+    "timestamp": "2025-09-29T12:56:22.306357Z",
+    "source": "web",
+    "sender": "delivery@package-service.com",
+    "subject": "Package Delivery Failed",
+    "body": "Your package delivery failed. Click here to reschedule: https://tinyurl.com/reschedule-057",
+    "url": "https://tinyurl.com/reschedule-057",
+    "final_url": "https://package-delivery-scam.net/reschedule?tracking=057",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-084",
+    "timestamp": "2025-09-13T12:56:22.306788Z",
+    "source": "sms",
+    "sender": "noreply@apple.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://apple.com/account/summary",
+    "final_url": "https://apple.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-067",
+    "timestamp": "2025-09-18T12:56:22.306498Z",
+    "source": "email",
+    "sender": "support@fake-cloud-upgrade.com",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-067",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=067",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-061",
+    "timestamp": "2025-10-01T12:56:22.306421Z",
+    "source": "sms",
+    "sender": "billing@invoice-company9.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-061 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-061",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=061",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-023",
+    "timestamp": "2025-09-14T12:56:22.305886Z",
+    "source": "web",
+    "sender": "delivery@package-service.com",
+    "subject": "Package Delivery Failed",
+    "body": "Your package delivery failed. Click here to reschedule: https://tinyurl.com/reschedule-023",
+    "url": "https://tinyurl.com/reschedule-023",
+    "final_url": "https://package-delivery-scam.net/reschedule?tracking=023",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-097",
+    "timestamp": "2025-10-01T12:56:22.306962Z",
+    "source": "email",
+    "sender": "security@microsoft.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://microsoft.com/security/update",
+    "final_url": "https://microsoft.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-185",
+    "timestamp": "2025-09-30T12:56:22.307914Z",
+    "source": "email",
+    "sender": "notifications@legitimate-delivery.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://legitimate-delivery.com/maintenance",
+    "final_url": "https://legitimate-delivery.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-006",
+    "timestamp": "2025-09-05T12:56:22.305651Z",
+    "source": "sms",
+    "sender": "billing@invoice-company4.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-006 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-006",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=006",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-139",
+    "timestamp": "2025-09-28T12:56:22.307434Z",
+    "source": "web",
+    "sender": "noreply@google.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://google.com/account/summary",
+    "final_url": "https://google.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-035",
+    "timestamp": "2025-10-05T12:56:22.306043Z",
+    "source": "email",
+    "sender": "security@fake-bank-security.net",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-035",
+    "final_url": "https://fake-bank-verification.com/verify?ref=035",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-106",
+    "timestamp": "2025-09-21T12:56:22.307058Z",
+    "source": "email",
+    "sender": "security@microsoft.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://microsoft.com/security/update",
+    "final_url": "https://microsoft.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-123",
+    "timestamp": "2025-09-23T12:56:22.307265Z",
+    "source": "sms",
+    "sender": "notifications@google.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://google.com/maintenance",
+    "final_url": "https://google.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-193",
+    "timestamp": "2025-10-02T12:56:22.308005Z",
+    "source": "email",
+    "sender": "noreply@legitimate-company.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://legitimate-company.com/account/summary",
+    "final_url": "https://legitimate-company.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-003",
+    "timestamp": "2025-09-19T12:56:22.305604Z",
+    "source": "web",
+    "sender": "security@fake-bank.com",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-003",
+    "final_url": "https://fake-bank-verification.com/verify?ref=003",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-076",
+    "timestamp": "2025-09-07T12:56:22.306614Z",
+    "source": "sms",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-076",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=076",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-172",
+    "timestamp": "2025-09-19T12:56:22.307784Z",
+    "source": "email",
+    "sender": "security@cloud-provider.net",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://cloud-provider.net/security/update",
+    "final_url": "https://cloud-provider.net/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-130",
+    "timestamp": "2025-09-09T12:56:22.307338Z",
+    "source": "sms",
+    "sender": "security@legitimate-company.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://legitimate-company.com/security/update",
+    "final_url": "https://legitimate-company.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-108",
+    "timestamp": "2025-09-25T12:56:22.307081Z",
+    "source": "sms",
+    "sender": "notifications@cloud-provider.net",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://cloud-provider.net/maintenance",
+    "final_url": "https://cloud-provider.net/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-087",
+    "timestamp": "2025-09-17T12:56:22.306825Z",
+    "source": "sms",
+    "sender": "notifications@microsoft.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://microsoft.com/maintenance",
+    "final_url": "https://microsoft.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-124",
+    "timestamp": "2025-09-26T12:56:22.307274Z",
+    "source": "sms",
+    "sender": "noreply@google.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://google.com/account/summary",
+    "final_url": "https://google.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-152",
+    "timestamp": "2025-09-13T12:56:22.307575Z",
+    "source": "sms",
+    "sender": "security@microsoft.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://microsoft.com/security/update",
+    "final_url": "https://microsoft.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-012",
+    "timestamp": "2025-09-30T12:56:22.305741Z",
+    "source": "sms",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-012",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=012",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-004",
+    "timestamp": "2025-09-22T12:56:22.305620Z",
+    "source": "email",
+    "sender": "security@fake-bank-security.net",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-004",
+    "final_url": "https://fake-bank-verification.com/verify?ref=004",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-065",
+    "timestamp": "2025-09-13T12:56:22.306472Z",
+    "source": "sms",
+    "sender": "billing@invoice-company9.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-065 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-065",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=065",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-083",
+    "timestamp": "2025-09-14T12:56:22.306776Z",
+    "source": "sms",
+    "sender": "noreply@cloud-provider.net",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://cloud-provider.net/account/summary",
+    "final_url": "https://cloud-provider.net/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-111",
+    "timestamp": "2025-09-21T12:56:22.307112Z",
+    "source": "sms",
+    "sender": "noreply@legitimate-company.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://legitimate-company.com/account/summary",
+    "final_url": "https://legitimate-company.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-011",
+    "timestamp": "2025-09-08T12:56:22.305724Z",
+    "source": "email",
+    "sender": "support@cloud-provider.net",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-011",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=011",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-176",
+    "timestamp": "2025-09-10T12:56:22.307825Z",
+    "source": "email",
+    "sender": "noreply@amazon.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://amazon.com/account/summary",
+    "final_url": "https://amazon.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-141",
+    "timestamp": "2025-09-09T12:56:22.307453Z",
+    "source": "email",
+    "sender": "security@microsoft.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://microsoft.com/security/update",
+    "final_url": "https://microsoft.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-127",
+    "timestamp": "2025-09-28T12:56:22.307304Z",
+    "source": "sms",
+    "sender": "noreply@microsoft.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://microsoft.com/account/summary",
+    "final_url": "https://microsoft.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-129",
+    "timestamp": "2025-09-14T12:56:22.307327Z",
+    "source": "sms",
+    "sender": "notifications@apple.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://apple.com/maintenance",
+    "final_url": "https://apple.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-070",
+    "timestamp": "2025-09-10T12:56:22.306538Z",
+    "source": "email",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-070",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=070",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-104",
+    "timestamp": "2025-09-10T12:56:22.307039Z",
+    "source": "web",
+    "sender": "security@microsoft.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://microsoft.com/security/update",
+    "final_url": "https://microsoft.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-078",
+    "timestamp": "2025-09-19T12:56:22.306639Z",
+    "source": "email",
+    "sender": "billing@invoice-company10.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-078 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-078",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=078",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-120",
+    "timestamp": "2025-09-21T12:56:22.307234Z",
+    "source": "sms",
+    "sender": "notifications@apple.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://apple.com/maintenance",
+    "final_url": "https://apple.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-032",
+    "timestamp": "2025-09-06T12:56:22.306008Z",
+    "source": "web",
+    "sender": "support@fake-cloud-upgrade.com",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-032",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=032",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-113",
+    "timestamp": "2025-09-20T12:56:22.307132Z",
+    "source": "web",
+    "sender": "notifications@apple.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://apple.com/maintenance",
+    "final_url": "https://apple.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-180",
+    "timestamp": "2025-09-22T12:56:22.307866Z",
+    "source": "web",
+    "sender": "noreply@cloud-provider.net",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://cloud-provider.net/account/summary",
+    "final_url": "https://cloud-provider.net/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-187",
+    "timestamp": "2025-09-11T12:56:22.307938Z",
+    "source": "web",
+    "sender": "notifications@legitimate-company.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://legitimate-company.com/maintenance",
+    "final_url": "https://legitimate-company.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-043",
+    "timestamp": "2025-09-28T12:56:22.306179Z",
+    "source": "email",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-043",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=043",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-184",
+    "timestamp": "2025-09-12T12:56:22.307903Z",
+    "source": "web",
+    "sender": "security@apple.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://apple.com/security/update",
+    "final_url": "https://apple.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-158",
+    "timestamp": "2025-10-02T12:56:22.307635Z",
+    "source": "sms",
+    "sender": "noreply@legitimate-delivery.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://legitimate-delivery.com/account/summary",
+    "final_url": "https://legitimate-delivery.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-037",
+    "timestamp": "2025-09-29T12:56:22.306078Z",
+    "source": "web",
+    "sender": "security@fake-bank-verification.com",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-037",
+    "final_url": "https://fake-bank-verification.com/verify?ref=037",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-069",
+    "timestamp": "2025-09-24T12:56:22.306525Z",
+    "source": "web",
+    "sender": "billing@invoice-company2.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-069 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-069",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=069",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-039",
+    "timestamp": "2025-09-24T12:56:22.306120Z",
+    "source": "sms",
+    "sender": "support@cloud-provider.net",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-039",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=039",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-195",
+    "timestamp": "2025-09-30T12:56:22.308025Z",
+    "source": "email",
+    "sender": "noreply@amazon.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://amazon.com/account/summary",
+    "final_url": "https://amazon.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-140",
+    "timestamp": "2025-10-04T12:56:22.307444Z",
+    "source": "email",
+    "sender": "notifications@google.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://google.com/maintenance",
+    "final_url": "https://google.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-030",
+    "timestamp": "2025-09-09T12:56:22.305983Z",
+    "source": "email",
+    "sender": "security@fake-bank-security.net",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-030",
+    "final_url": "https://fake-bank-verification.com/verify?ref=030",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-109",
+    "timestamp": "2025-09-07T12:56:22.307093Z",
+    "source": "web",
+    "sender": "notifications@cloud-provider.net",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://cloud-provider.net/maintenance",
+    "final_url": "https://cloud-provider.net/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-051",
+    "timestamp": "2025-10-03T12:56:22.306286Z",
+    "source": "web",
+    "sender": "security@fake-bank.com",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-051",
+    "final_url": "https://fake-bank-verification.com/verify?ref=051",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-189",
+    "timestamp": "2025-09-24T12:56:22.307964Z",
+    "source": "email",
+    "sender": "security@apple.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://apple.com/security/update",
+    "final_url": "https://apple.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-178",
+    "timestamp": "2025-09-26T12:56:22.307844Z",
+    "source": "web",
+    "sender": "security@legitimate-company.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://legitimate-company.com/security/update",
+    "final_url": "https://legitimate-company.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-162",
+    "timestamp": "2025-09-10T12:56:22.307680Z",
+    "source": "web",
+    "sender": "notifications@apple.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://apple.com/maintenance",
+    "final_url": "https://apple.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-019",
+    "timestamp": "2025-09-23T12:56:22.305834Z",
+    "source": "sms",
+    "sender": "delivery@package-service.com",
+    "subject": "Package Delivery Failed",
+    "body": "Your package delivery failed. Click here to reschedule: https://tinyurl.com/reschedule-019",
+    "url": "https://tinyurl.com/reschedule-019",
+    "final_url": "https://package-delivery-scam.net/reschedule?tracking=019",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-117",
+    "timestamp": "2025-10-01T12:56:22.307181Z",
+    "source": "email",
+    "sender": "security@google.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://google.com/security/update",
+    "final_url": "https://google.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-073",
+    "timestamp": "2025-09-24T12:56:22.306573Z",
+    "source": "sms",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-073",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=073",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-074",
+    "timestamp": "2025-09-23T12:56:22.306585Z",
+    "source": "sms",
+    "sender": "support@cloud-provider.net",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-074",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=074",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-060",
+    "timestamp": "2025-09-05T12:56:22.306408Z",
+    "source": "email",
+    "sender": "billing@invoice-company2.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-060 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-060",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=060",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-009",
+    "timestamp": "2025-09-09T12:56:22.305698Z",
+    "source": "web",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-009",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=009",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-075",
+    "timestamp": "2025-09-15T12:56:22.306599Z",
+    "source": "web",
+    "sender": "billing@invoice-company6.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-075 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-075",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=075",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-121",
+    "timestamp": "2025-09-09T12:56:22.307243Z",
+    "source": "sms",
+    "sender": "security@google.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://google.com/security/update",
+    "final_url": "https://google.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-197",
+    "timestamp": "2025-10-03T12:56:22.308043Z",
+    "source": "web",
+    "sender": "noreply@amazon.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://amazon.com/account/summary",
+    "final_url": "https://amazon.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-192",
+    "timestamp": "2025-09-13T12:56:22.307996Z",
+    "source": "email",
+    "sender": "noreply@cloud-provider.net",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://cloud-provider.net/account/summary",
+    "final_url": "https://cloud-provider.net/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-105",
+    "timestamp": "2025-10-04T12:56:22.307049Z",
+    "source": "web",
+    "sender": "noreply@cloud-provider.net",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://cloud-provider.net/account/summary",
+    "final_url": "https://cloud-provider.net/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-001",
+    "timestamp": "2025-09-28T12:56:22.305465Z",
+    "source": "email",
+    "sender": "security@fake-bank-security.net",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-001",
+    "final_url": "https://fake-bank-verification.com/verify?ref=001",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-175",
+    "timestamp": "2025-09-15T12:56:22.307815Z",
+    "source": "web",
+    "sender": "noreply@legitimate-company.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://legitimate-company.com/account/summary",
+    "final_url": "https://legitimate-company.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-020",
+    "timestamp": "2025-09-11T12:56:22.305847Z",
+    "source": "email",
+    "sender": "support@fake-cloud-upgrade.com",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-020",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=020",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-142",
+    "timestamp": "2025-09-28T12:56:22.307462Z",
+    "source": "email",
+    "sender": "security@cloud-provider.net",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://cloud-provider.net/security/update",
+    "final_url": "https://cloud-provider.net/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-045",
+    "timestamp": "2025-09-20T12:56:22.306210Z",
+    "source": "sms",
+    "sender": "security@fake-bank.com",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-045",
+    "final_url": "https://fake-bank-verification.com/verify?ref=045",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-062",
+    "timestamp": "2025-09-14T12:56:22.306435Z",
+    "source": "web",
+    "sender": "billing@invoice-company4.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-062 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-062",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=062",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-041",
+    "timestamp": "2025-09-10T12:56:22.306143Z",
+    "source": "email",
+    "sender": "security@fake-bank-verification.com",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-041",
+    "final_url": "https://fake-bank-verification.com/verify?ref=041",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-021",
+    "timestamp": "2025-09-10T12:56:22.305859Z",
+    "source": "web",
+    "sender": "security@fake-bank-security.net",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-021",
+    "final_url": "https://fake-bank-verification.com/verify?ref=021",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-170",
+    "timestamp": "2025-09-25T12:56:22.307764Z",
+    "source": "sms",
+    "sender": "noreply@legitimate-delivery.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://legitimate-delivery.com/account/summary",
+    "final_url": "https://legitimate-delivery.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-068",
+    "timestamp": "2025-09-24T12:56:22.306510Z",
+    "source": "email",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-068",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=068",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-055",
+    "timestamp": "2025-10-01T12:56:22.306334Z",
+    "source": "web",
+    "sender": "billing@invoice-company7.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-055 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-055",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=055",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-161",
+    "timestamp": "2025-09-05T12:56:22.307670Z",
+    "source": "web",
+    "sender": "notifications@legitimate-company.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://legitimate-company.com/maintenance",
+    "final_url": "https://legitimate-company.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-054",
+    "timestamp": "2025-09-14T12:56:22.306322Z",
+    "source": "web",
+    "sender": "delivery@package-service.com",
+    "subject": "Package Delivery Failed",
+    "body": "Your package delivery failed. Click here to reschedule: https://tinyurl.com/reschedule-054",
+    "url": "https://tinyurl.com/reschedule-054",
+    "final_url": "https://package-delivery-scam.net/reschedule?tracking=054",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-026",
+    "timestamp": "2025-09-16T12:56:22.305926Z",
+    "source": "email",
+    "sender": "delivery@package-service.com",
+    "subject": "Package Delivery Failed",
+    "body": "Your package delivery failed. Click here to reschedule: https://tinyurl.com/reschedule-026",
+    "url": "https://tinyurl.com/reschedule-026",
+    "final_url": "https://package-delivery-scam.net/reschedule?tracking=026",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-157",
+    "timestamp": "2025-09-08T12:56:22.307626Z",
+    "source": "sms",
+    "sender": "security@apple.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://apple.com/security/update",
+    "final_url": "https://apple.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-016",
+    "timestamp": "2025-09-29T12:56:22.305794Z",
+    "source": "web",
+    "sender": "billing@invoice-company2.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-016 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-016",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=016",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-200",
+    "timestamp": "2025-10-02T12:56:22.308075Z",
+    "source": "web",
+    "sender": "security@google.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://google.com/security/update",
+    "final_url": "https://google.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-146",
+    "timestamp": "2025-09-13T12:56:22.307500Z",
+    "source": "email",
+    "sender": "notifications@cloud-provider.net",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://cloud-provider.net/maintenance",
+    "final_url": "https://cloud-provider.net/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-079",
+    "timestamp": "2025-09-13T12:56:22.306654Z",
+    "source": "sms",
+    "sender": "support@fake-microsoft.com",
+    "subject": "Your Microsoft Account Has Been Compromised",
+    "body": "We detected suspicious activity on your Microsoft account. Click here to secure it immediately.",
+    "url": "https://bit.ly/microsoft-security-079",
+    "final_url": "https://fake-microsoft-security.net/secure-account?token=079",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-110",
+    "timestamp": "2025-09-21T12:56:22.307103Z",
+    "source": "email",
+    "sender": "notifications@amazon.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://amazon.com/maintenance",
+    "final_url": "https://amazon.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-151",
+    "timestamp": "2025-09-09T12:56:22.307564Z",
+    "source": "web",
+    "sender": "notifications@cloud-provider.net",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://cloud-provider.net/maintenance",
+    "final_url": "https://cloud-provider.net/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-077",
+    "timestamp": "2025-09-16T12:56:22.306625Z",
+    "source": "sms",
+    "sender": "support@cloud-provider.net",
+    "subject": "Cloud Storage Quota Exceeded",
+    "body": "Your cloud storage quota has been exceeded. Upgrade your plan to continue using our services.",
+    "url": "https://bit.ly/cloud-upgrade-077",
+    "final_url": "https://fake-cloud-upgrade.com/upgrade?plan=077",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-114",
+    "timestamp": "2025-09-21T12:56:22.307141Z",
+    "source": "email",
+    "sender": "noreply@microsoft.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://microsoft.com/account/summary",
+    "final_url": "https://microsoft.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-116",
+    "timestamp": "2025-09-07T12:56:22.307161Z",
+    "source": "web",
+    "sender": "noreply@apple.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://apple.com/account/summary",
+    "final_url": "https://apple.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-098",
+    "timestamp": "2025-09-20T12:56:22.306972Z",
+    "source": "web",
+    "sender": "security@google.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://google.com/security/update",
+    "final_url": "https://google.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-134",
+    "timestamp": "2025-09-30T12:56:22.307381Z",
+    "source": "email",
+    "sender": "noreply@microsoft.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://microsoft.com/account/summary",
+    "final_url": "https://microsoft.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-058",
+    "timestamp": "2025-09-07T12:56:22.306369Z",
+    "source": "email",
+    "sender": "billing@invoice-company2.com",
+    "subject": "Payment Overdue - Immediate Action Required",
+    "body": "Your invoice #INV-058 is overdue. Please pay immediately to avoid late fees and service suspension.",
+    "url": "https://tinyurl.com/pay-invoice-058",
+    "final_url": "https://fake-invoice-payment.net/pay?invoice=058",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-159",
+    "timestamp": "2025-09-07T12:56:22.307648Z",
+    "source": "sms",
+    "sender": "notifications@apple.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://apple.com/maintenance",
+    "final_url": "https://apple.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-153",
+    "timestamp": "2025-09-16T12:56:22.307584Z",
+    "source": "email",
+    "sender": "notifications@legitimate-delivery.com",
+    "subject": "Service Maintenance Notice",
+    "body": "We will be performing scheduled maintenance on our services. Downtime is expected to be minimal.",
+    "url": "https://legitimate-delivery.com/maintenance",
+    "final_url": "https://legitimate-delivery.com/maintenance",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-156",
+    "timestamp": "2025-09-19T12:56:22.307617Z",
+    "source": "web",
+    "sender": "security@apple.com",
+    "subject": "Security Update Available",
+    "body": "A new security update is available for your account. Please update when convenient.",
+    "url": "https://apple.com/security/update",
+    "final_url": "https://apple.com/security/update",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-107",
+    "timestamp": "2025-09-14T12:56:22.307070Z",
+    "source": "web",
+    "sender": "noreply@legitimate-delivery.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://legitimate-delivery.com/account/summary",
+    "final_url": "https://legitimate-delivery.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  },
+  {
+    "id": "demo-196",
+    "timestamp": "2025-10-02T12:56:22.308034Z",
+    "source": "email",
+    "sender": "noreply@apple.com",
+    "subject": "Account Activity Summary",
+    "body": "Here's your monthly account activity summary. No action required.",
+    "url": "https://apple.com/account/summary",
+    "final_url": "https://apple.com/account/summary",
+    "whois": {
+      "registrar": "Legitimate Registrar Inc",
+      "created_date": "2020-01-01T00:00:00Z",
+      "expires_date": "2026-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Legitimate CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  }
+]

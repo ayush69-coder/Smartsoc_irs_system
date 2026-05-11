@@ -1,0 +1,65 @@
+[
+  {
+    "id": "demo-001",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "source": "email",
+    "sender": "security@fake-bank.com",
+    "subject": "Urgent: Verify Your Account Immediately",
+    "body": "Dear Customer, Your account has been temporarily suspended due to suspicious activity. Click here to verify your identity and restore access immediately.",
+    "url": "https://bit.ly/verify-account-now",
+    "final_url": "https://fake-bank-verification.com/verify",
+    "whois": {
+      "registrar": "Fake Registrar Inc",
+      "created_date": "2024-01-01T00:00:00Z",
+      "expires_date": "2025-01-01T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Fake CA",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-002",
+    "timestamp": "2024-01-15T11:15:00Z",
+    "source": "sms",
+    "sender": "+1234567890",
+    "subject": "SMS Alert",
+    "body": "Your package delivery failed. Click here to reschedule: https://tinyurl.com/reschedule-delivery",
+    "url": "https://tinyurl.com/reschedule-delivery",
+    "final_url": "https://package-delivery-scam.net/reschedule",
+    "whois": {
+      "registrar": "Suspicious Domains LLC",
+      "created_date": "2024-01-10T00:00:00Z",
+      "expires_date": "2024-12-31T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Self-Signed",
+      "valid_from": "2024-01-10T00:00:00Z",
+      "valid_to": "2024-12-31T00:00:00Z"
+    },
+    "label": "phishing"
+  },
+  {
+    "id": "demo-003",
+    "timestamp": "2024-01-15T12:00:00Z",
+    "source": "web",
+    "sender": "noreply@google.com",
+    "subject": "Google Security Alert",
+    "body": "We detected unusual activity on your Google account. Please verify your identity to secure your account.",
+    "url": "https://google.com/security/verify",
+    "final_url": "https://google.com/security/verify",
+    "whois": {
+      "registrar": "Google LLC",
+      "created_date": "1997-09-15T00:00:00Z",
+      "expires_date": "2028-09-14T00:00:00Z"
+    },
+    "ssl_cert": {
+      "issuer": "Google Trust Services",
+      "valid_from": "2024-01-01T00:00:00Z",
+      "valid_to": "2025-01-01T00:00:00Z"
+    },
+    "label": "legitimate"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "bit.ly": {
+    "verify-account-now": "https://fake-bank-verification.com/verify",
+    "microsoft-security-alert": "https://fake-microsoft-security.net/secure-account",
+    "suspicious-link": "https://malicious-site.net/phishing",
+    "urgent-action": "https://scam-site.com/urgent"
+  },
+  "tinyurl.com": {
+    "reschedule-delivery": "https://package-delivery-scam.net/reschedule",
+    "update-payment": "https://fake-payment.net/update",
+    "verify-identity": "https://identity-theft.net/verify"
+  },
+  "short.ly": {
+    "bank-alert": "https://fake-bank.net/alert",
+    "security-check": "https://malicious-security.net/check"
+  }
+}

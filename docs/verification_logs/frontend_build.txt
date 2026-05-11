@@ -1,0 +1,19 @@
+Exit Code: 0
+
+STDOUT:
+
+> phishguard-pro-frontend@1.0.0 build
+> tsc && vite build
+
+vite v4.5.14 building for production...
+transforming...
+✓ 368 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.76 kB │ gzip:  0.43 kB
+dist/assets/index-e8f711e7.css   23.42 kB │ gzip:  4.98 kB
+dist/assets/index-8d75c7b1.js   228.24 kB │ gzip: 64.70 kB
+✓ built in 5.75s
+
+
+STDERR:

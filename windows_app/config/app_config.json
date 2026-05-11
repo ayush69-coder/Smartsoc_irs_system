@@ -1,0 +1,24 @@
+{
+  "app": {
+    "name": "PhishGuard Pro Windows",
+    "version": "1.0.0",
+    "author": "PhishGuard Pro Team"
+  },
+  "api": {
+    "base_url": "http://localhost:8000",
+    "timeout": 30,
+    "retry_attempts": 3
+  },
+  "ui": {
+    "window_width": 1200,
+    "window_height": 800,
+    "min_width": 800,
+    "min_height": 600,
+    "theme": "clam"
+  },
+  "features": {
+    "auto_refresh_interval": 5000,
+    "max_live_feed_events": 20,
+    "enable_logging": true
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "timestamp": "2025-10-05T18:58:54.938543",
+  "overall_status": "partial",
+  "items": [
+    {
+      "name": "System Tools Check",
+      "status": "completed",
+      "timestamp": "2025-10-05T18:58:54.938564",
+      "notes": "All critical tools available"
+    },
+    {
+      "name": "Virtual Environment",
+      "status": "completed",
+      "timestamp": "2025-10-05T18:58:54.938567",
+      "notes": "Created at .venv_phishguard"
+    },
+    {
+      "name": "Python Dependencies",
+      "status": "partial",
+      "timestamp": "2025-10-05T18:58:54.938571",
+      "notes": "Essential packages installed"
+    },
+    {
+      "name": "Backend Tests",
+      "status": "partial",
+      "timestamp": "2025-10-05T18:58:54.938574",
+      "notes": "Tests run with issues"
+    },
+    {
+      "name": "Frontend Build",
+      "status": "completed",
+      "timestamp": "2025-10-05T18:58:54.938584",
+      "notes": "Built successfully"
+    },
+    {
+      "name": "Extension Setup",
+      "status": "completed",
+      "timestamp": "2025-10-05T18:58:54.938587",
+      "notes": "Manifest and background script created"
+    },
+    {
+      "name": "Docker Build",
+      "status": "missing",
+      "timestamp": "2025-10-05T18:58:54.938590",
+      "notes": "Docker not available"
+    }
+  ],
+  "fixes_applied": 0,
+  "issues_found": [
+    "Some Python dependencies failed to install"
+  ]
+}
